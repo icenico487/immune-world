@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Immune-humanization 嗜中性球與他的快樂朋友",
+    pageTitle: "Welcome to Icy's cozy spot",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
