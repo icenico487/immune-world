@@ -2,5 +2,5 @@
 title: 歡迎來到Nicole的小窩
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+此網站用來放Nicole的自介以及免疫細胞擬人(其實包含其他細胞)的筆記!
+(建設中)
