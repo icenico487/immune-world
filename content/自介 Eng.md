@@ -12,10 +12,10 @@ Used to be Extrovert but now very introvert | Militsioner is my life rn | commis
 Come from Taiwan. An amateur artist, and currently try to improve myself 
 Besides this, I also enjoy listening to music. Broken soul can be healed with music.
 
-Other things that I like to do: Learning languages, including German, Swedish and Russian. All learned a bit, and is continuing learning.
+Other things that I like to do: Learning languages, including German, Swedish and Russian. All learned a bit, continuing learning.
 
 ----
-- ## 【List】Things that I like(bingo  time)
+- ## 【List】Things that I like(bingo time)
 
 Band/Artist : iDKHOW(top1 4ever), Sigur Ros, Radiohead,
 Aurora, Half Alive, Cosmo Sheldrake, Glass Animals, Heilung, the Correspondents, Wintergatan
